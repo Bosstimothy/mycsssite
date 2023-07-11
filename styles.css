@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    width: 5%;
+    border-style: dotted none none none;
+    border-width: 5px;
+    margin: 50px auto 50px auto;
+    border-color: #EAF6F6;
+}
+.short-profile{
+    width: 30%;
+    margin: auto;
+}
+.copyright{
+    font-family: 'open sans',
+        serif;
+        color: #EAF6F6;
+}
+.myimage{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-top: 100px;
+}
+.html{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.css{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.javascript {
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+        margin-top: 60px;
+}
+h1{
+   font-size: 4.375rem;
+    font-family: 'Dancing Script', cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+ h2{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    }
+.firsth2{
+    font-family: 'Baskerville';
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+p{
+    font-family: 'open sans', serif;
+    color: #40514E;
+}
+.tu{
+    text-decoration: underline;
+}
+.topcontainer{
+    background-color: #EAF6F6;
+    position: relative;
+}
+.middle-container{
+
+}
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    padding-top: 50px;
+}
+.top-cloud {
+        margin-top: 50px;
+        position: relative;
+        left: 300px;
+    }
+
+.bottom-cloud{
+    position: absolute
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.short-note{
+    width: 50%;
+    margin: 20px auto ;
+}
+.footer-link{
+    color: #11999E;
+}
+.btn {
+    background: #52D8CC;
+    border-radius: 20px;
+    margin: 40px auto 40px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    width: 110px;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 12px;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    border: solid #70ecd5 1px;
+    background: #06b759;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#LinkedInbtn {
+    background: #FFFFFF;
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #52D8CC;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+#LinkedInbtn:hover {
+    color: #FFFFFF;
+    border: solid #FFFFFF 1px;
+    background: #06b759;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+#Twitterbtn {
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #52D8CC;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #FFFFFF;
+    border:1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+#Twitterbtn:hover {
+    color: #FFFFFF;
+    background: #06B759;
+    border: solid #FFFFFF 1px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
+#Websitebtn {
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #52D8CC;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #FFFFFF;
+    border: 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+#Websitebtn:hover {
+    color: #FFFFFF;
+    background: #06B759;
+    border: solid #FFFFFF 1px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.copyright {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
